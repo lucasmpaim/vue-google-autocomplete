@@ -22,9 +22,8 @@
         locality: 'long_name',
         administrative_area_level_1: 'short_name',
         administrative_area_level_2: 'long_name',
-        country: 'long_name',
+        country: 'short_name',
         postal_code: 'short_name',
-	short_country: 'short_name'
     };
 
     const CITIES_TYPE = ['locality', 'administrative_area_level_3'];
